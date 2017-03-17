@@ -22,3 +22,9 @@
 - **Abreham Tamiru Alemayehu**
 - *Yvette Abadi*
 - *Amanda Wu*
+
+## Links
+
+[Github Markdown](https://guides.github.com/features/mastering-markdown/)
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
