@@ -7,6 +7,7 @@
 - **Peniel Argaw**
 - **Erik Doty**
 - **Yu-Na Lee**
+- *Honey Bajaj*
 - *Xiaojing Xing*
 
 ### [B] NCD PCHR
