@@ -50,12 +50,12 @@ Care Flow             |  Data Flow
 
 ### Sana PCHR value proposition
 The desired value proposition for this system is:
-- Measurable reduction in the incidence and prevalence of NCDs through providing higher-quality and more continuous healthcare to refugee populations
+- Measurable reduction in the incidence and prevalence of NCDs (i.e. by providing higher-quality and more continuous healthcare to refugee populations)
 - Measurable reduction of complications derived from NCDs
-- Measurable reduction in costs for healthcare providing organizations (e.g. by providing a less expensive option for collection of patient data avoiding in-person paper surveying at the local clinics)
-- Automation collection, analysis and reporting of population-level agregate data to guide interventions and research by partnering organizations or justify funding from sponsors.
+- Measurable reduction in costs for healthcare providing organizations (i.e. by providing a less expensive option for collection of patient data avoiding in-person paper surveying at local clinics)
+- Automated real-time analysis reporting of population-level agregate data to guide interventions and justify funding from sponsors
 
-See a video created in 2016 [Introductory Video](https://vimeo.com/90270531) for more details. 
+See this [Introductory Video](https://vimeo.com/90270531) for furter detail. 
 
 ## Spring 2017 Sana PCHR project requirements
 ### Mandatory requirements 
