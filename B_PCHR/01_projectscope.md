@@ -100,7 +100,7 @@ See this [Introductory Video](https://vimeo.com/90270531) for furter detail.
 ### SCRUM roles 
 
 - Product Owner (Kenneth Paik)
-- Scrum Master (TBD).- accountable for removing impediments to the ability of the team to deliver the product goals and deliverables. The Scrum Master is not a traditional team lead or project manager, but acts as a buffer between the team and any distracting influences. The Scrum Master ensures that the Scrum framework is followed. The Scrum Master helps to ensure the team follows the agreed processes in the Scrum framework, often facilitates key sessions, and encourages the team to improve. The role has also been referred to as a team facilitator[20] or servant-leader to reinforce these dual perspectives.
+- Scrum Master (TBD): This individual will be accountable for removing impediments to the ability of the team to deliver the product goals and deliverables. The Scrum Master is not a traditional team lead or project manager, but acts as a buffer between the team and any distracting influences. The Scrum Master ensures that the Scrum framework is followed. The Scrum Master helps to ensure the team follows the agreed processes in the Scrum framework, often facilitates key sessions, and encourages the team to improve. The role has also been referred to as a team facilitator or servant-leader to reinforce these dual perspectives.
 - Development Team (TBD)
 
 ## Timeline
