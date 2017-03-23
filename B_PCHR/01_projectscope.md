@@ -115,11 +115,11 @@ See this [Introductory Video](https://vimeo.com/90270531) for furter detail.
 
 ## Team members
 
-Krysla Grothe
+Krysla Grothe (MS Global Health and MA International Development Candidate, Brandeis University)
 
 Maimuna (Maia) Majumder, M.P.H. (Ph.D. Candidate | ESD/IDSS | Massachusetts Institute of Technology)
 
-Neha Safaya (MSc. Student | GHPM | Brandeis University)
+Neha Safaya
 
 Luis R Soenksen (Ph.D. Candidate | Mech. Eng. | Massachusetts Institute of Technology)
 
