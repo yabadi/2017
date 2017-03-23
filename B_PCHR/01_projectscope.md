@@ -60,8 +60,8 @@ See this [Introductory Video](https://vimeo.com/90270531) for furter detail.
 ## Spring 2017 Sana PCHR project requirements
 ### Mandatory requirements 
 - Improve dissemination of Sana PCHR platform
-  1)	Evaluation of current website (Sana PCHR), including usability, strengths, and challenges (Krysla)
-  2)	Development of a website roadmap based on user input (Krysla)
+  1)	Evaluation of current website (Sana PCHR), including usability, strengths, and challenges (Neha)
+  2)	Development of a website roadmap based on user input (Neha)
   
 - Retrospective data analytics on existing pilot data to enable evidence-based actionable interventions
   1)	Given existing data model, brainstorm what additional data should be collected in the future to better meet the needs of stakeholders by addressing questions such as (Maia):
@@ -75,6 +75,10 @@ See this [Introductory Video](https://vimeo.com/90270531) for furter detail.
 - Integrated real-time (self-updating) data analytics and reporting to improve accountability with sponsors and facilitate continued funding
   1)	How should aggregate statistics be presented for various stakeholders (i.e. information slicing and visualization by provider, patient type, billing, operational variables, etc.)? (Luis)
   2)  Which specific aggregate statistics should be presented for various stakeholders? (Luis)
+  
+- Monitoring and Evaluation Plan
+  1) Develop a monitoring and evaluation plan based on project goals, indicators, and expected outcomes (Krysla)
+  2) Working with data analysis, organize a plan for dissemination and donor reporting (Krysla) 
 
 ### Optional requirements 
 - Securement of additional grants to continue improvements and implementation (Krysla)
@@ -93,6 +97,7 @@ See this [Introductory Video](https://vimeo.com/90270531) for furter detail.
 ## Limitations
 - Involved developers: 3 students (12 credits) + 1 student (3 credits)
 - Development time < 2 months
+- Next round of funding not awarded (March 2017) Project requires additional support for further development. 
 
 ## Process
 - Scrum will be used as an iterative and incremental agile software development framework for managing product development of Spring 2017 Sana PCHR objectives.
