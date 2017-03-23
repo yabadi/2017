@@ -69,7 +69,7 @@ See this [Introductory Video](https://vimeo.com/90270531) for furter detail.
         - How well does the current data model address the needs of various stakeholders?
         - Which stakeholders are most under-served by the current data model?
         - What additions to the data model would yield the greatest usability for multiple stakeholders?
-  2)	Analysis, development, and implementation of epidemiological models to analyse reportable data (pending data availability) (Maia)
+  2)	Analysis, development, and implementation of epidemiological and biostatistical models to analyse reportable data (pending data availability) (Maia)
   3)  Analysis, development, and implementation of basic deep learning framefok for data mining (pending data availability) (Luis)
 
 - Integrated real-time data analytics and reporting to improve accountability with sponsors and facilitate continued funding
@@ -77,20 +77,21 @@ See this [Introductory Video](https://vimeo.com/90270531) for furter detail.
   2)  Which specific aggregate statistics should be presented for various stakeholders? (Luis)
 
 ### Optional requirements 
-- Securement of additional grants to continue improvements and implementation
-- UX redesign to further ease use of platform
+- Securement of additional grants to continue improvements and implementation (Krysla)
+- UX redesign to further ease use of real-time data analytics and reporting platform (Luis)
+- Probabilistic modeling of existing pilot data using (Maia)
 
 ## Relevant stakeholders
 - Current Sana PCHR sponsors
 - Current Sana PCHR collaborators (e.g. UNHCR)
 - Local clinics administrators (e.g. clinics using Sana PCHR)
 - Local clinical personnel (e.g. nurses, physicians, voluntaries, technicians)
-- Ministries of Health (e.g. Lebanon Gov)
+- Ministries of Health (e.g. Lebanon Government)
 - Potential future Sana PCHR sponsors
 - Potential future Sana PCHR collaborators (e.g. UNHCR)
 
 ## Limitations
-- Involved developers: 3 students 12 credits + 1 student 4 credits
+- Involved developers: 3 students (12 credits) + 1 student (3 credits)
 - Development time < 2 months
 
 ## Process
