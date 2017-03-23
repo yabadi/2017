@@ -60,21 +60,21 @@ See this [Introductory Video](https://vimeo.com/90270531) for furter detail.
 ## Spring 2017 Sana PCHR project requirements
 ### Mandatory requirements 
 - Improve dissemination of Sana PCHR platform
-  1)	Evaluation of current website (Sana PCHR), including usability, strengths, and challenges
-  2)	Development of a website roadmap based on user input
+  1)	Evaluation of current website (Sana PCHR), including usability, strengths, and challenges (Krysla)
+  2)	Development of a website roadmap based on user input (Krysla)
   
-- Real-time data analytics to enable evidence-based actionable interventions
-  1)	Given existing data model, brainstorm what additional data should be collected in the future to better meet the needs of stakeholders by addressing questions such as:
+- Retrospective data analytics to enable evidence-based actionable interventions
+  1)	Given existing data model, brainstorm what additional data should be collected in the future to better meet the needs of stakeholders by addressing questions such as (Maia):
         - What are the core needs of various stakeholders?
         - How well does the current data model address the needs of various stakeholders?
         - Which stakeholders are most under-served by the current data model?
         - What additions to the data model would yield the greatest usability for multiple stakeholders?
-  2)	Review existing pilot data (pending data availability)
-  3)	Analysis, development, and implementation of epidemiological models to analyse reportable data (pending data availability)
-  4)	Analysis, development, and implementation of basic deep learning framefok for data mining (pending data availability)
+  2)	Analysis, development, and implementation of epidemiological models to analyse reportable data (pending data availability) (Maia)
+  3)  Analysis, development, and implementation of basic deep learning framefok for data mining (pending data availability) (Luis)
 
-- Integrated data reporting capabilities to improve accountability with sponsors and facilitate continuing funding
-  1)	How could the data be presented for the different stakeholders (from analysis of what information is most valuable for them, and also considering information slicing by provider, patient type, billing, operational pieces, etc as desired by relevant stakeholders)
+- Integrated real-time data analytics and reporting to improve accountability with sponsors and facilitate continued funding
+  1)	How should aggregate statistics be presented for various stakeholders (i.e. information slicing and visualization by provider, patient type, billing, operational variables, etc.)? (Luis)
+  2)  Which specific aggregate statistics should be presented for various stakeholders? (Luis)
 
 ### Optional requirements 
 - Securement of additional grants to continue improvements and implementation
