@@ -81,7 +81,7 @@ See this [Introductory Video](https://vimeo.com/90270531) for furter detail.
   2) Working with data analysis, organize a plan for dissemination and donor reporting (Krysla) 
 
 ### Optional requirements 
-- Securement of additional grants to continue improvements and implementation (Krysla)
+- Securement of additional grants to continue improvements and implementation (Krysla & Neha)
 - UX redesign to further ease use of real-time (self-updating) data analytics and reporting platform (Luis)
 - Probabilistic modeling of existing pilot data using (Maia)
 
@@ -124,7 +124,7 @@ Krysla Grothe (MS Global Health and MA International Development Candidate, Bran
 
 Maimuna (Maia) Majumder, M.P.H. (Ph.D. Candidate | ESD/IDSS | Massachusetts Institute of Technology)
 
-Neha Safaya
+Neha Safaya (MSc. Student | GHPM | Brandeis University)
 
 Luis R Soenksen (Ph.D. Candidate | Mech. Eng. | Massachusetts Institute of Technology)
 
