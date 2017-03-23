@@ -1,7 +1,5 @@
 ---
-<p align="center">
 # Sana PCHR (Spring 2017)
-</p>
 ---
 
 # Project Scope
