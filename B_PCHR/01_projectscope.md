@@ -119,7 +119,7 @@ Krysla Grothe
 
 Maimuna (Maia) Majumder, M.P.H. (Ph.D. Candidate | ESD/IDSS | Massachusetts Institute of Technology)
 
-Neha Safaya
+Neha Safaya (MSc. Student | GHPM | Brandeis University)
 
 Luis R Soenksen (Ph.D. Candidate | Mech. Eng. | Massachusetts Institute of Technology)
 
