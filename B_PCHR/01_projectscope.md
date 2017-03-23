@@ -61,22 +61,26 @@ See a video created in 2016 [Introductory Video](https://vimeo.com/90270531) for
 
 
 ## Spring 2017 Sana PCHR Project Requirements
-### Absolute requirements 
+### Mandatory requirements 
 - Improve dissemination of Sana PCHR platform
-  1)	Evaluation of current website (Sana PCHR) usability strengths and issues
+  1)	Evaluation of current website (Sana PCHR), including usability, strengths, and challenges
   2)	Development of a website roadmap based on user input
   
 - Real-time data analytics to enable evidence-based actionable interventions
-  1)	Review the existing data (what has been reported)
-  2)	What should be collected? ()
-  3)	Analysis, development and implementation of epidemiological models to analyse reportable data
-  4)	Analysis, development and implementation of dasic deep learning framefok for data mining
+  1)	Given existing data model, brainstorm what additional data should be collected in the future to better meet the needs of stakeholders by addressing questions such as:
+      - What are the core needs of various stakeholders?
+      - How well does the current data model address the needs of various stakeholders?
+      - Which stakeholders are most under-served by the current data model?
+      - What additions to the data model would yield the greatest usability for multiple stakeholders?
+  2)	Review existing pilot data (pending data availability)
+  3)	Analysis, development, and implementation of epidemiological models to analyse reportable data (pending data availability)
+  4)	Analysis, development, and implementation of basic deep learning framefok for data mining (pending data availability)
 
 - Integrated data reporting capabilities to improve accountability with sponsors and facilitate continuing funding
   1)	How could the data be presented for the different stakeholders (from analysis of what information is most valuable for them, and also considering information slicing by provider, patient type, billing, operational pieces, etc as desired by relevant stakeholders)
 
 
-### Desired requirements 
+### Optional requirements 
 - Securement of additional grants to continue improvements and implementation
 - UX redesign to further ease use of platform
 
