@@ -22,7 +22,8 @@ Process/Timeline
 3. Conversation with our partners
 4. stakeholder/market analysis
 5. Scope where and how we can pilot test
-6. Pilot test!
+6. Development
+7. Pilot test!
 
 Deliverables
 - Research on how this is going to work
