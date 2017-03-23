@@ -121,6 +121,6 @@ Neha Safaya
 
 Krysla Grothe
 
-Maimuna (Maia) Majumder
+Maimuna (Maia) Majumder, M.P.H. (Ph.D. Candidate | ESD/IDSS | Massachusetts Institute of Technology)
 
 The students are advised by Dr. Kenneth Paik
