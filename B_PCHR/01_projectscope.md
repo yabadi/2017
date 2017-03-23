@@ -115,12 +115,13 @@ See a video created in 2016 [Introductory Video](https://vimeo.com/90270531) for
 
 
 ## Student Team Members
-Luis R Soenksen (Ph.D. Candidate | Mech. Eng. | Massachusetts Institute of Technology)
-
-Neha Safaya
 
 Krysla Grothe
 
 Maimuna (Maia) Majumder, M.P.H. (Ph.D. Candidate | ESD/IDSS | Massachusetts Institute of Technology)
 
-The students are advised by Dr. Kenneth Paik
+Neha Safaya
+
+Luis R Soenksen (Ph.D. Candidate | Mech. Eng. | Massachusetts Institute of Technology)
+
+Advising by Dr. Kenneth Paik
