@@ -3,36 +3,34 @@
 ---
 
 # Scope
-The Spring 2017 PCHR project involves the refinement for the ongoing Sana PCHR Lebanon project to allow for wider disemination as well as real-time data analytics and actionable reporting for physicians, clinic/hospital administrators, sponsors and ministries of health.
+The Spring 2017 PCHR project involves the refinement for the ongoing Sana PCHR Lebanon project to allow for wider dissemination, as well as retrospective and real-time data analytics (pending data availability) and actionable reporting for physicians, clinic/hospital administrators, sponsors, and ministries of health.
 
 ## Sana PCHR Platform overview
-The Sana patient-controlled health record (PCHR) platform is a mobile-health tool in the form of an electronic medical record with covering the needs of vulnerable populations. The overarching goal of Sana PCHR is to reduce the rates and severity of non-communicable diseases (NCDs) among refugee populations in resource-limited settings worldwide. The inception of this proyect and its initial target population focused on Syrian refugees; nonetheless, it is expected that its use eventually extends beyond this niche into other nation-wide healthcare systems. 
+The Sana patient-controlled health record (PCHR) platform is a mobile-health tool in the form of an electronic medical record covering the needs of vulnerable populations. The overarching goal of Sana PCHR is to reduce the rates and severity of non-communicable diseases (NCDs) among refugee populations in resource-limited settings worldwide. The inception of this project and its initial target population focused on Syrian refugees; nonetheless, it is expected that its use will eventually extend beyond this niche into other nation-wide healthcare systems. 
 
 ### Relevance of Non-communicable diseases
-(http://www.who.int/mediacentre/factsheets/fs355/en/)
 
-Noncommunicable diseases (NCDs), also known as chronic diseases, are not passed from person to person. They are of long duration and generally slow progression. The 4 main types of noncommunicable diseases are:
+Noncommunicable diseases (NCDs), also known as chronic diseases, are not passed from person-to-person. They are of long duration and generally slow progression. The 4 main types of noncommunicable diseases are (http://www.who.int/mediacentre/factsheets/fs355/en/):
 - Cardiovascular diseases (e.g. heart attacks and stroke)
 - Cancers
-- Chronic respiratory diseases, such as chronic obstructive pulmonary disease (COPD)and asthma 
-- Diabetes.
+- Chronic respiratory diseases, such as chronic obstructive pulmonary disease (COPD) and asthma 
+- Diabetes
 
-Key facts on global burden of NCDs (WHO 2015, Fact sheet on Non-communicable diseases) are:
-http://www.who.int/mediacentre/factsheets/fs355/en/
+Key facts on global burden of NCDs are (http://www.who.int/mediacentre/factsheets/fs355/en/):
 
 - Noncommunicable diseases (NCDs) kill 38 million people each year.
 - Almost three quarters of NCD deaths - 28 million - occur in low- and middle-income countries.
-- Sixteen million NCD deaths occur before the age of 70; 82% of these "premature" deaths occurred in low- and middle-income countries.
+- Sixteen million NCD deaths occur before the age of 70; 82% of these "premature" deaths occur in low- and middle-income countries.
 - Cardiovascular diseases account for most NCD deaths, or 17.5 million people annually, followed by cancers (8.2 million), respiratory diseases (4 million), and diabetes (1.5 million).
 - These 4 groups of diseases account for 82% of all NCD deaths.
-- Tobacco use, physical inactivity, the harmful use of alcohol and unhealthy diets all increase the risk of dying from an NCD.
-- NCDs in general require *continuous* care to prevent further complications. For example, a diabetic foot ulcer if detected early is much easier to treat.
-- Global cost associated with treating NCDs surpass the trillion dollar mark every year, due to NCDs lengthy treatment regimes
+- Tobacco use, physical inactivity, overuse of alcohol, and unhealthy diets all increase the risk of dying from an NCD.
+- NCDs in general require *continuous* care to prevent further complicationn; for example, a diabetic foot ulcer if detected early is much easier to treat.
+- Global costs associated with treating NCDs surpass the trillion dollar mark every year, due to lengthy treatment regimens.
 
-Key facts on burden of NCDs in Lebanon and Syria (http://www.who.int/nmh/countries/syr_en.pdf) are:
-- NCDs are highly prevalent in the Syrian population and are responsible for [almost half](http://www.who.int/nmh/countries/syr_en.pdf) of deaths within the region
-- Syrian refugees do not generally have continuous care for NCDs because they encounter different physicans who treat them without understanding their prior medical history.
-- Continuous treatment of NCDs require substantial behavioral changes and strict medication adherence, something particularly difficult to achieve in refugee populations where patient follow-up is specially difficult.
+Key facts on burden of NCDs in Lebanon and Syria are (http://www.who.int/nmh/countries/syr_en.pdf):
+- NCDs are highly prevalent in the Syrian population and are responsible for almost half of deaths within the region.
+- Syrian refugees do not generally have continuous care for NCDs, because they encounter different physicans who treat them without understanding their prior medical history.
+- Continuous treatment of NCDs require substantial behavioral changes and strict medication adherence, something particularly difficult to achieve in refugee populations where patient follow-up is uniquely difficult.
 
 ### Sana PCHR history and current status (as of March 22nd 2017)
 Starting in early 2015, Sana PCHR was envisoned as a mobile health tool for chronic disease management in refugee populations as a proyect developed by the Massachusetts Institute of Technology (MIT) in conjunction with the Johns Hopkins University (JHU). Working closely with the government of Lebanon, this system was intended to be designed specifically to meet the needs of Syrian refugees. The first iteration of Sana PCHR was deployed for testing on February 2017, pilot evaluation that is expected to continue until September of 2017. Data in the form of digital health records has already been obtained through this platform (from approx. 3,000 patients). Current data reporting capabilities for Sana PCHR are limited to retrieval of full database for analysis in external software such as SAS and R (no real-time analytics has been implemented). Easy to use reporting schemes are also unexistent in the current implementation of Sana PCHR. Preliminary evaluation of the clinical utility of this system is still "inconclusive" and further analysis is required to prove or reject its usefulnes in field use; nonetheless, data is suggestive of a positive effect in the use of this system for improving care in this refugee population.
