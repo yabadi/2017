@@ -68,10 +68,10 @@ See a video created in 2016 [Introductory Video](https://vimeo.com/90270531) for
   
 - Real-time data analytics to enable evidence-based actionable interventions
   1)	Given existing data model, brainstorm what additional data should be collected in the future to better meet the needs of stakeholders by addressing questions such as:
-      - What are the core needs of various stakeholders?
-      - How well does the current data model address the needs of various stakeholders?
-      - Which stakeholders are most under-served by the current data model?
-      - What additions to the data model would yield the greatest usability for multiple stakeholders?
+        - What are the core needs of various stakeholders?
+        - How well does the current data model address the needs of various stakeholders?
+        - Which stakeholders are most under-served by the current data model?
+        - What additions to the data model would yield the greatest usability for multiple stakeholders?
   2)	Review existing pilot data (pending data availability)
   3)	Analysis, development, and implementation of epidemiological models to analyse reportable data (pending data availability)
   4)	Analysis, development, and implementation of basic deep learning framefok for data mining (pending data availability)
