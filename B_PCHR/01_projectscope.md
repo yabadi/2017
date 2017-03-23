@@ -63,22 +63,22 @@ See this [Introductory Video](https://vimeo.com/90270531) for furter detail.
   1)	Evaluation of current website (Sana PCHR), including usability, strengths, and challenges (Krysla)
   2)	Development of a website roadmap based on user input (Krysla)
   
-- Retrospective data analytics to enable evidence-based actionable interventions
+- Retrospective data analytics on existing pilot data to enable evidence-based actionable interventions
   1)	Given existing data model, brainstorm what additional data should be collected in the future to better meet the needs of stakeholders by addressing questions such as (Maia):
         - What are the core needs of various stakeholders?
         - How well does the current data model address the needs of various stakeholders?
         - Which stakeholders are most under-served by the current data model?
         - What additions to the data model would yield the greatest usability for multiple stakeholders?
-  2)	Analysis, development, and implementation of epidemiological and biostatistical models to analyse reportable data (pending data availability) (Maia)
-  3)  Analysis, development, and implementation of basic deep learning framefok for data mining (pending data availability) (Luis)
+  2)	Analysis, development, and implementation of epidemiological and biostatistical models to analyse existing reported data (pending data availability) (Maia)
+  3)  Analysis, development, and implementation of basic deep learning framework for data mining (pending data availability) (Luis)
 
-- Integrated real-time data analytics and reporting to improve accountability with sponsors and facilitate continued funding
+- Integrated real-time (self-updating) data analytics and reporting to improve accountability with sponsors and facilitate continued funding
   1)	How should aggregate statistics be presented for various stakeholders (i.e. information slicing and visualization by provider, patient type, billing, operational variables, etc.)? (Luis)
   2)  Which specific aggregate statistics should be presented for various stakeholders? (Luis)
 
 ### Optional requirements 
 - Securement of additional grants to continue improvements and implementation (Krysla)
-- UX redesign to further ease use of real-time data analytics and reporting platform (Luis)
+- UX redesign to further ease use of real-time (self-updating) data analytics and reporting platform (Luis)
 - Probabilistic modeling of existing pilot data using (Maia)
 
 ## Relevant stakeholders
